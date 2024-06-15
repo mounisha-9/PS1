@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.4+C:\MockHackathonWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 4058044016.index
 1416362538.index
@@ -5,3 +6,12 @@ INDEX VERSION 1.4+C:\MockHackathonWorkspace\.metadata\.plugins\org.eclipse.wst.j
 2255723249.index
 3052755562.index
 79436929.index
+=======
+INDEX VERSION 1.4+D:\JFSD\MockHackathonWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+297482149.index
+3360996341.index
+2728172317.index
+4147047920.index
+3796961256.index
+1208252942.index
+>>>>>>> 337c96e100ca4c60484a3cf51a00a3ab42619433

@@ -1,0 +1,14 @@
+package com.rts.klef.springboot.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "center_table")
+public class Center {
+	
+	private int id;
+	private String loc;
+	private String name;
+
+}

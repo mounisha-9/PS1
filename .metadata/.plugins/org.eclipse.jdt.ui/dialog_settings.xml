@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="JavaElementSearchActions">
 	</section>
+<<<<<<< HEAD
 	<section name="completion_proposal_size">
 	</section>
 	<section name="quick_assist_proposal_size">
@@ -34,4 +35,6 @@
 		<item key="DIALOG_HEIGHT" value="889"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
+=======
+>>>>>>> 337c96e100ca4c60484a3cf51a00a3ab42619433
 </section>

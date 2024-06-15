@@ -1,0 +1,5 @@
+package com.rts.klef.springboot.model;
+
+public class Ration {
+
+}

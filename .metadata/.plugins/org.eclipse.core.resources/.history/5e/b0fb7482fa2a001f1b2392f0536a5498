@@ -1,0 +1,35 @@
+package com.rts.klef.springboot.model;
+
+@Entity
+@Table(name = "ration_table")
+public class Ration {
+	  @Id
+	  @GeneratedValue(strategy = GenerationType.IDENTITY)
+	  private int id;
+	  @Column(nullable = false,length = 100)
+	  private String name;
+	  @Column(nullable = false,length = 1000)
+	  private String quantity;
+	  @Column(nullable = false,length = )
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getCategory() {
+		return category;
+	}
+	public void setCategory(String category) {
+		this.category = category;
+	}
+	
+	@Override
+	public String toString() {
+		return "Product [id=" + id + ", category=" + category + ", name=" + name + ", description=" + description
+				+ ", cost=" + cost + ", productlink=" + productlink + ", productimage=" + productimage + "]";
+	}
+
+	
+
+}

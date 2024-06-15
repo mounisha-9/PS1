@@ -1,0 +1,5 @@
+package com.rts.klef.springboot.service;
+
+public interface rationservice {
+
+}

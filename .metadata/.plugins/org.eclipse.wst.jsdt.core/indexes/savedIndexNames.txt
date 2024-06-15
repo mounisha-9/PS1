@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\MockHackathonWorkspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4058044016.index
+1416362538.index
+297482149.index
+2255723249.index
+3052755562.index
+79436929.index

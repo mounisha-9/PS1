@@ -1,0 +1,5 @@
+package com.rts.klef.springboot.repository;
+
+public interface rationrepository {
+
+}
